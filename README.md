@@ -2,6 +2,8 @@
 json是一个C++语言的Json解析器，提供json解析及构造json数据功能。
 (目前只支持英文的解析，支持中文的构造）
 
+http://www.cnblogs.com/yongssu/p/4678677.html
+
 #json解析器解析json样例
 	ifstream fin("test.json");
 	string str;
